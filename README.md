@@ -69,8 +69,10 @@ A:这些都是受到背后的看不见的宇宙运动的有规律的推力在推
 
 ![image](https://github.com/user-attachments/assets/b4d46829-6170-4712-9aa7-5d600bb8d493)
 ![image](https://github.com/user-attachments/assets/bb640f94-9d8b-4441-b8c0-d0a872a30cd5)
+
 <img width="244" height="159" alt="image" src="https://github.com/user-attachments/assets/ed68ad64-de22-4ad6-8c42-d9cc29c41fac" />
-<img width="640" height="1193" alt="image" src="https://github.com/user-attachments/assets/569f95d0-8115-4692-bf26-bd6548be6494" />
+
+<img width="244"  alt="image" src="https://github.com/user-attachments/assets/569f95d0-8115-4692-bf26-bd6548be6494" />
 
 
 
