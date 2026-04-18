@@ -1,6 +1,6 @@
-## 个人爱好：
+## 心之所向，素履以往：
 
-### 1、可视化编程
+### 1、知识可视化
 
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/liaodalin19903-g6-contributor.json)](https://github.com/antvis/g6)
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/liaodalin19903-x6-contributor.json)](https://github.com/antvis/x6)
